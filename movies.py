@@ -434,5 +434,18 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "delroy lindo",
             "spike lee",
         ],
+    ),
+    (
+        "iron man",
+        "jon favreau",
+        2008,
+        [
+            "Robert Downey Jr.",
+            "Terrence Howard",
+            "Jeff Bridges",
+            "Gwyneth Paltrow",
+            "leslie Bibb",
+            "Shaun Toub",
+        ]
     )
 ]
